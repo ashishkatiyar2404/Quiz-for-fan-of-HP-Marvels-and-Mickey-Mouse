@@ -1,4 +1,5 @@
-This is a Quiz app, which shows(a/c to your score) How Well you know Ashish Katiyar.
+Another nodeJS CLI app.This checks your knowledge on HP,Marvel Cinematic Universe and Disney World.
+
 
 How to Play:-
 It's Very Simple-
